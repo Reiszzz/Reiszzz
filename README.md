@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá! Sou Kauan Reis 👋
+Sou um estudante de Ciência da Computação no segundo semestre, apaixonado por tecnologia e programação. Aqui no meu GitHub, você encontrará projetos que estou desenvolvendo e aprendizados ao longo da minha jornada na área de TI e Faculdade. Estou sempre em busca de novas oportunidades para colaborar e crescer na comunidade de tecnlogia.
 
-<!--
-**Reiszzz/Reiszzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sinta-se à vontade para explorar meus repositórios e entrar em contato!
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Reis-java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="Reis-mysql" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+##
+
+<div> 
+  
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  
+</div>
+
