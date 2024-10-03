@@ -13,8 +13,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato! 😁
 ##
 
 <div> 
-  
-  <a href = "mailto:https://criarmeulink.com.br/u/1727982704"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    
   <a href="https://www.linkedin.com/in/kauanreiss" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div>
