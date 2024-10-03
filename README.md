@@ -1,7 +1,7 @@
-## Olá! 👋🏻 Eu sou o Kauan Reis 
+## Olá! Eu sou o Kauan Reis 🙋🏻‍♂️
 Sou um estudante de Ciência da Computação no segundo semestre, apaixonado por tecnologia e programação. Aqui no meu GitHub, você encontrará projetos que estou desenvolvendo e aprendizados ao longo da minha jornada na área de TI e Faculdade. Estou sempre em busca de novas oportunidades para colaborar e crescer na comunidade de tecnlogia!
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+Sinta-se à vontade para explorar meus repositórios e entrar em contato! 😁
 
 <div style="display: inline_block"><br>
   
