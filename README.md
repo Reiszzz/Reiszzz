@@ -1,53 +1,43 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:003366&height=180&section=header&text=👨‍💻%20Kauan%20Reis%20|%20Ciência%20da%20Computação&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:003366&height=150&section=header&text=Kauan%20Reis&fontSize=32&fontColor=ffffff" />
 </p>
 
-<!-- Apresentação -->
-<h3 align="center">🧠 Estudante de Ciência da Computação | 💻 Apaixonado por Tecnologia e Programação</h3>
-
 <p align="center">
-  Olá! Sou <b>Kauan Reis</b>, estudante de <b>Ciência da Computação</b> no segundo semestre.  
-  Aqui no meu GitHub, compartilho projetos e aprendizados da minha jornada na área de <b>TI</b> e <b>Faculdade</b>.  
-  Estou sempre em busca de evoluir, aprender novas tecnologias e colaborar com a comunidade! 🚀  
+  <b>Estudante de Ciência da Computação</b> | Apaixonado por Tecnologia e Programação 💻  
 </p>
 
 ---
 
-## 🌌 Tecnologias que estou aprendendo e utilizando
+### 👋 Sobre mim
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,vscode&theme=dark" />
+Sou um estudante de **Ciência da Computação** no **segundo semestre**, apaixonado por **tecnologia** e **programação**.  
+Aqui no meu GitHub compartilho projetos e aprendizados da minha jornada na área de **TI** e **Faculdade**.  
+Sempre busco **crescer**, **colaborar** e **aprender coisas novas** dentro da comunidade tech. 😁
+
+---
+
+### 🧠 Tecnologias que estudo e utilizo
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,linux,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 🌐 Contato
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanReis&show_icons=true&theme=github_dark&bg_color=001f3f&title_color=1e90ff&icon_color=1e90ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanReis&layout=compact&langs_count=8&theme=github_dark&bg_color=003366&title_color=1e90ff" />
-</p>
-
----
-
-## 📬 Entre em contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kauanreiss/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-001f3f?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/kauanreiss/">
+    <img src="https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kauanreissantosss@gmail.com">
-    <img src="https://img.shields.io/badge/Email-003366?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-001f3f?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  🌟 <i>"A tecnologia move o mundo, mas a curiosidade é o que o faz evoluir."</i> 🌟
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:003366&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:003366&height=100&section=footer"/>
 </p>
