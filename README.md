@@ -4,24 +4,52 @@
 </p>
 
 <p align="center">
-  <b>Estudante de Ciência da Computação</b> | Apaixonado por Tecnologia e Programação 💻  
+  <b>Java Developer</b> | Software Engineering | Computer Science Student 💻
 </p>
 
 ---
 
 ### 👋 Sobre mim
 
-Sou um estudante de **Ciência da Computação** no **segundo semestre**, apaixonado por **tecnologia** e **programação**.  
-Aqui no meu GitHub compartilho projetos e aprendizados da minha jornada na área de **TI** e **Faculdade**.  
-Sempre busco **crescer**, **colaborar** e **aprender coisas novas** dentro da comunidade tech. 😁
+Sou estudante de **Ciência da Computação**, com foco em **Engenharia de Software**, **Arquitetura de Software** e **desenvolvimento Java**.
+
+No GitHub, compartilho projetos, estudos e experiências da minha jornada em tecnologia.
+
+Também tenho interesse em **sistemas financeiros e soluções de tecnologia para o setor bancário**.
+
+📚 Sempre buscando aprender, construir projetos e evoluir como desenvolvedor.
 
 ---
 
-### 🧠 Tecnologias que estudo e utilizo
+### 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,linux,vscode,idea,maven,spring&theme=dark" />
 </p>
+
+**Atualmente estudando e utilizando:**
+
+- ☕ Java
+- 🌱 Spring / Spring Boot
+- 🔗 APIs REST
+- 🗄️ MySQL
+- 📦 Maven
+- 🔧 Git
+- 💻 IntelliJ IDEA / VS Code
+- 🐧 Linux
+
+---
+
+### 📚 Atualmente estudando
+
+- Java 8+
+- Spring Boot
+- APIs REST
+- Estruturas de Dados e Algoritmos
+- Banco de Dados
+- Engenharia de Software
+- Arquitetura de Software
+- Docker
 
 ---
 
