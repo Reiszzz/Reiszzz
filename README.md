@@ -9,29 +9,29 @@
 
 ---
 
-### 👋 Sobre mim
+### 👋 About Me
 
-Sou estudante de **Ciência da Computação**, com foco em **Engenharia de Software**, **Arquitetura de Software** e **desenvolvimento Java**.
+I am a **Computer Science student** focused on **Software Engineering**, **Software Architecture**, and **Java development**.
 
-No GitHub, compartilho projetos, estudos e experiências da minha jornada em tecnologia.
+On GitHub, I share projects, studies, and experiences from my journey in technology.
 
-Também tenho interesse em **sistemas financeiros e soluções de tecnologia para o setor bancário**.
+I am also interested in **financial systems and technology solutions for the banking industry**.
 
-📚 Sempre buscando aprender, construir projetos e evoluir como desenvolvedor.
+📚 Always looking to learn, build projects, and grow as a developer.
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,mysql,git,linux,vscode,idea,maven,spring&theme=dark" />
 </p>
 
-**Atualmente estudando e utilizando:**
+**Currently studying and working with:**
 
 - ☕ Java
 - 🌱 Spring / Spring Boot
-- 🔗 APIs REST
+- 🔗 REST APIs
 - 🗄️ MySQL
 - 📦 Maven
 - 🔧 Git
@@ -40,20 +40,20 @@ Também tenho interesse em **sistemas financeiros e soluções de tecnologia par
 
 ---
 
-### 📚 Atualmente estudando
+### 📚 Currently Studying
 
 - Java 8+
 - Spring Boot
-- APIs REST
-- Estruturas de Dados e Algoritmos
-- Banco de Dados
-- Engenharia de Software
-- Arquitetura de Software
+- REST APIs
+- Data Structures and Algorithms
+- Databases
+- Software Engineering
+- Software Architecture
 - Docker
 
 ---
 
-### 🌐 Contato
+### 🌐 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kauanreiss/">
